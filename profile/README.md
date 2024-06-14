@@ -1,1 +1,1 @@
-<img src="./images/grops_model.png" width="100%" />
+<img src="./images/grops_post.png" width="100%" />
